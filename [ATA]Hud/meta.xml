@@ -1,0 +1,101 @@
+<meta>
+
+	<info author="Meta Scripts -Beyonder" type="script" name="New Hud" version="1.0" />
+        <!-- settings -->
+	<script src="settings.lua" type="shared" cache = "false" />
+		<!-- IMGS-->
+    <file src ="imgs/main.png" />
+
+    <file src ="imgs/bar.png" />
+    		<!-- icons-->
+        <file src ="imgs/icons/heart.png" />
+        <file src ="imgs/icons/armor.png" />
+        <file src ="imgs/icons/money.png" />
+        <file src ="imgs/icons/bank.png" />
+        <file src ="imgs/icons/circle.png" />
+
+            <!-- fonts-->
+        <file src="imgs/fonts/fontBold.ttf" />
+
+        <file src="imgs/fonts/fontLight.ttf" />
+            <!--Weapons-->
+        <file src="imgs/weapons/0.png" />
+        <file src="imgs/weapons/1.png" />
+        <file src="imgs/weapons/2.png" />
+        <file src="imgs/weapons/3.png" />
+        <file src="imgs/weapons/4.png" />
+        <file src="imgs/weapons/5.png" />
+        <file src="imgs/weapons/6.png" />
+        <file src="imgs/weapons/7.png" />
+        <file src="imgs/weapons/8.png" />
+        <file src="imgs/weapons/9.png" />
+        <file src="imgs/weapons/10.png" />
+        <file src="imgs/weapons/11.png" />
+        <file src="imgs/weapons/12.png" />
+        <file src="imgs/weapons/14.png" />
+        <file src="imgs/weapons/15.png" />
+        <file src="imgs/weapons/16.png" />
+        <file src="imgs/weapons/17.png" />
+        <file src="imgs/weapons/18.png" />
+        <file src="imgs/weapons/22.png" />
+        <file src="imgs/weapons/23.png" />
+        <file src="imgs/weapons/24.png" />
+        <file src="imgs/weapons/25.png" />
+        <file src="imgs/weapons/26.png" />
+        <file src="imgs/weapons/27.png" />
+        <file src="imgs/weapons/28.png" />
+        <file src="imgs/weapons/29.png" />
+        <file src="imgs/weapons/30.png" />
+        <file src="imgs/weapons/31.png" />
+        <file src="imgs/weapons/32.png" />
+        <file src="imgs/weapons/33.png" />
+        <file src="imgs/weapons/34.png" />
+        <file src="imgs/weapons/35.png" />
+        <file src="imgs/weapons/36.png" />
+        <file src="imgs/weapons/37.png" />
+        <file src="imgs/weapons/38.png" />
+        <file src="imgs/weapons/39.png" />
+        <file src="imgs/weapons/40.png" />
+        <file src="imgs/weapons/41.png" />
+        <file src="imgs/weapons/42.png" />
+        <file src="imgs/weapons/43.png" />
+        <file src="imgs/weapons/44.png" />
+        <file src="imgs/weapons/46.png" />
+        <!-- Ranks-->
+        <file src="imgs/ranks/ascendant1-64.png" />
+        <file src="imgs/ranks/ascendant2-64.png" />
+        <file src="imgs/ranks/ascendant3-64.png" />
+        <file src="imgs/ranks/dia1-64.png" />
+        <file src="imgs/ranks/dia2-64.png" />
+        <file src="imgs/ranks/dia3-64.png" />
+        <file src="imgs/ranks/gold1-64.png" />
+        <file src="imgs/ranks/gold2-64.png" />
+        <file src="imgs/ranks/gold3-64.png" />
+        <file src="imgs/ranks/immortal1-64.png" />
+        <file src="imgs/ranks/immortal2-64.png" />
+        <file src="imgs/ranks/immortal3-64.png" />
+        <file src="imgs/ranks/iron1-64.png" />
+        <file src="imgs/ranks/iron2-64.png" />
+        <file src="imgs/ranks/iron3-64.png" />
+        <file src="imgs/ranks/plat1-64.png" />
+        <file src="imgs/ranks/plat2-64.png" />
+        <file src="imgs/ranks/plat3-64.png" />
+        <file src="imgs/ranks/radiant-64.png" />
+        <file src="imgs/ranks/silver1-64.png" />
+        <file src="imgs/ranks/silver2-64.png" />
+        <file src="imgs/ranks/silver3-64.png" />
+        <file src="imgs/ranks/unranked.png" />
+
+        <!-- GUI -->
+    <script src="gui/lib.lua" type="client" cache = "false" />
+	<script src="gui/gui.lua" type="client" cache = "false" />
+
+
+        <!-- Client -->
+    <script src="client/util_c.lua" type="client" cache = "false" />
+
+
+
+
+
+</meta>
